@@ -26,7 +26,7 @@ Sign in with ChatGPT Plus / Pro to use GPT-6 and other Codex models, quota, web 
 
 ## Prepare DSH
 
-Verified against DSH `0.2.1-rc.1` (`latest` and `next` channels); the minimum supported version is `0.1.7-rc.2`. Please upgrade older DSH releases first.
+Verified against DSH `0.2.1-rc.2` (`latest` and `next` channels); the minimum supported version is `0.1.7-rc.2`. Please upgrade older DSH releases first.
 
 This plugin supports the latest DeepSeek Harness release recorded in its package metadata and requires a ChatGPT account that currently has Codex access.
 
